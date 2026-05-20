@@ -1,7 +1,7 @@
 # 👋 Welcome to TJ-Spatial-Intelligence-Lab
 
 ## 🧪 About Us
-We focus on cutting-edge research in **spatial intelligence, vision-language-action (VLA) models, embodied AI, and world models**.
+We focus on cutting-edge research in **spatial intelligence, embodied AI, and world models**. (Tongji University)
 
 ---
 
