@@ -15,22 +15,22 @@ We focus on cutting-edge research in **spatial intelligence, embodied AI, and wo
 Below are key open-source projects and research implementations maintained or forked by our lab:
 
 - **[DA-PTQ](https://github.com/TJ-Spatial-Intelligence-Lab/DA-PTQ)**  
-  A data-aware post-training quantization framework for efficient deep learning model deployment, optimizing performance while preserving accuracy.
+  DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models
 
 - **[KC-VLA](https://github.com/TJ-Spatial-Intelligence-Lab/KC-VLA)**  
-  A knowledge-conditioned vision-language-action model for embodied AI, enabling robust policy learning with structured prior knowledge.
+  Non-Markovian Long-Horizon Robot Manipulation via Keyframe Chaining
 
 - **[SC-VLA](https://github.com/TJ-Spatial-Intelligence-Lab/SC-VLA)**  
-  A structured-conditioned vision-language-action framework designed for multi-modal robotic control tasks.
+  Self-Correcting VLA: Online Action Refinement via Sparse World Imagination
 
 - **[MOTIF](https://github.com/TJ-Spatial-Intelligence-Lab/MOTIF)**  
-  A multi-objective task inference framework for sequential decision-making and intelligent agent systems.
+  MOTIF: Learning Action Motifs for Few-shot Cross-Embodiment Transfer
 
-- **[AC-2-VLA](https://github.com/TJ-Spatial-Intelligence-Lab/AC-2-VLA)**  
-  An advanced control-augmented vision-language-action model for adaptive and robust robot manipulation.
+- **[AC²-VLA](https://github.com/TJ-Spatial-Intelligence-Lab/AC-2-VLA)**  
+  AC²-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation
 
 - **[ActDistill](https://github.com/TJ-Spatial-Intelligence-Lab/ActDistill)**  
-  An action distillation method for transferring complex policies to lightweight models, improving deployment efficiency.
+  ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models.
 
 ---
 
