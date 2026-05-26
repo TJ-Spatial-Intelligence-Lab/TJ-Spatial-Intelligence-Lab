@@ -6,9 +6,14 @@ We focus on cutting-edge research in **spatial intelligence, embodied AI, and wo
 ---
 
 ## 📚 Featured Survey
-- **[World Models Survey](https://wmsurvey.github.io/)**
+- **[World Models](https://wmsurvey.github.io/)**
   
   A comprehensive literature review on world models, covering foundational concepts, key architectures, and open challenges in the field.
+
+- **[Towards Generalist Embodied AI](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176948355.54623875)**
+ 
+  A Survey on World Models for VLA Agents.
+  
 - **[Adversarial Robustness in Embodied AI](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177100288.88303656)**
   
   A Closed-Loop Perspective on Attacks and Defenses.
