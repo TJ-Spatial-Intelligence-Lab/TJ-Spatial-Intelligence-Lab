@@ -25,6 +25,14 @@ We focus on cutting-edge research in **spatial intelligence, embodied AI, and wo
 ## 📂 Repositories Overview
 Below are key open-source projects and research implementations maintained or forked by our lab:
 
+### 🌍 Core Foundation Model & Simulator 
+> Flagship large-scale world model and simulation engine for robotic research
+- 🔥 **[BLM](https://github.com/TJ-Spatial-Intelligence-Lab/boundless-world-model)**  
+**Boundless-World-Model (BLM)**：A physically consistent, action-conditioned video world model built upon Wan2.2-TI2V-5B. It acts as a low-cost, high-fidelity universal simulator to support a wide range of robotic manipulation research.
+
+### ⚙️ Research Projects & Toolkits 
+Implementations of our papers:
+
 - **[DA-PTQ](https://github.com/TJ-Spatial-Intelligence-Lab/DA-PTQ)**  
   DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models
 
